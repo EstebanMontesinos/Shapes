@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/hw_6.dir/main.cpp.o CMakeFiles/hw_6.dir/Shape.cpp.o CMakeFiles/hw_6.dir/Rectangle.cpp.o CMakeFiles/hw_6.dir/Circle.cpp.o CMakeFiles/hw_6.dir/Triangle.cpp.o  -o hw_6 
